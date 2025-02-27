@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend, OS and Architecture**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @s.tar.lit_</h3>
 <p align="left">
 </p>
 
